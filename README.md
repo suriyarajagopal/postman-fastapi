@@ -38,5 +38,5 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/fastapi-customer-management.git
-   cd fastapi-customer-management
+   git clone https://github.com/suriyarajagopal/postman-fastapi.git
+   cd  postman-fastapi
